@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumMuJinJangCe';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMuJinJangCe/NanumMuJinJangCe.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMuJinJangCe/NanumMuJinJangCe.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumMuJinJangCe/NanumMuJinJangCe.ttf') format('truetype');
+}
